@@ -28,7 +28,7 @@ I'm a beginner developer. I live in Maceio, Alagoas, Brazil.
   <a href="https://www.instagram.com/raphacsi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:rapha.scampos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/raphael-campos-09b805170/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://foxihh.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-red" target="_blank">
+  <a href="https://foxihh.github.io/Portfolio/" target="_blank"><img height="28.4" width="110" src="https://img.shields.io/badge/-Portfolio-&?style=for-the-badge" target="_blank">
  
   
 </div>
