@@ -11,7 +11,7 @@ I'm a beginner developer. I live in Maceio, Alagoas, Brazil.
 <!-- Status -->
  <div>
   <a href="https://github.com/foxihh">
-  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=foxihh&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=false"/>
+  <img width="390" align="center" src="https://github-readme-stats.vercel.app/api?username=foxihh&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=False"/>
   <img width="390" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxihh&layout=compact&langs_count=9&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
