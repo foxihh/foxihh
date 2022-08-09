@@ -4,7 +4,7 @@ I'm a beginner developer. I live in Maceio, Alagoas, Brazil.
 
 -  I'm a Software Analysis and Development student at Senac.
 -  I'm an Manager Airport at Voepass Airlines, but I decided to change careers.
--  Currently learning **Java, JavaFX, MySQL, MongoDB, Spring Boot**.
+-  Currently learning **Java, MySQL, BootStrap**.
 -  I like to play games, read books and drink some coffee.
 
 
